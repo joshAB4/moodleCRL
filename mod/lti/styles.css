@@ -114,7 +114,7 @@
 }
 
 #registration-form-container .card {
-    margin-bottom: 0;
+    margin-bottom: 100;
 }
 
 #registration-form-container .control-group:last-child {
@@ -401,7 +401,10 @@
     display: inline-block;
     vertical-align: middle;
 }
-
+.p-3{
+    height:50px;
+    overflow: scroll;
+}
 /* Styling for LTI view */
 #contentframe {
     border: 1px solid #ddd;
